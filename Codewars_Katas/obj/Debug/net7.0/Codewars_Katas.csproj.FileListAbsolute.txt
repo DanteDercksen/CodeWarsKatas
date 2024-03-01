@@ -1,0 +1,14 @@
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\bin\Debug\net7.0\Codewars_Katas.exe
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\bin\Debug\net7.0\Codewars_Katas.deps.json
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\bin\Debug\net7.0\Codewars_Katas.runtimeconfig.json
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\bin\Debug\net7.0\Codewars_Katas.dll
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\bin\Debug\net7.0\Codewars_Katas.pdb
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\Codewars_Katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\Codewars_Katas.AssemblyInfoInputs.cache
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\Codewars_Katas.AssemblyInfo.cs
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\Codewars_Katas.csproj.CoreCompileInputs.cache
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\Codewars_Katas.dll
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\refint\Codewars_Katas.dll
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\Codewars_Katas.pdb
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\Codewars_Katas.genruntimeconfig.cache
+C:\Users\dante d\RiderProjects\Codewars_Katas\Codewars_Katas\obj\Debug\net7.0\ref\Codewars_Katas.dll
